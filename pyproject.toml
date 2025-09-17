@@ -1,0 +1,28 @@
+[project]
+name = "0713tunasbot"
+version = "0.2.3"
+description = "Tunasbot"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiosqlite>=0.21.0",
+    "beautifulsoup4>=4.13.4",
+    "boto3>=1.40.18",
+    "boto3-stubs==1.40.26",
+    "colorlog>=6.9.0",
+    "curl-cffi>=0.12.0",
+    "gradio>=5.45.0",
+    "gradio-client>=1.11.0",
+    "httpx[http2]>=0.28.1",
+    "jmespath>=1.0.1",
+    "logging>=0.4.9.6",
+    "lxml>=6.0.0",
+    "moviepy>=2.2.1",
+    "openai>=1.99.1",
+    "pillow>=11.3.0",
+    "pixivpy-async>=1.2.14",
+    "telegraph>=2.2.0",
+    "telethon>=1.40.0",
+    "textdistance>=4.6.3",
+    "yt-dlp>=2025.9.5",
+]
