@@ -1,2 +1,3 @@
 ## Installation
-> uv pip install -r .\pyproject.tom
+> uv pip install -r .\pyproject.toml
+
